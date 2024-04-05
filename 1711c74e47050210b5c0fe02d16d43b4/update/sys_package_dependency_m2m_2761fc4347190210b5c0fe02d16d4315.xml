@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">3c5a30d09000021087de3cfccdb0d6b3</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+        <sys_id>2761fc4347190210b5c0fe02d16d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

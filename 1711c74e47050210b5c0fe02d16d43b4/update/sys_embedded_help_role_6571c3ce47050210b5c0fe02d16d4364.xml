@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_738256_movie_inv.films_user" name="x_738256_movie_inv.films_user">d571c3ce47050210b5c0fe02d16d4361</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-03-21 16:43:33</sys_created_on>
+        <sys_id>6571c3ce47050210b5c0fe02d16d4364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d571c3ce47050210b5c0fe02d16d4361</sys_name>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6571c3ce47050210b5c0fe02d16d4364</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-03-21 16:43:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

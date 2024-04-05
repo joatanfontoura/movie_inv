@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>TM 1 - Imp Movies</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_738256_movie_inv_imp_movies</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-04-05 19:05:23</sys_created_on>
+        <sys_id>ca81b08347190210b5c0fe02d16d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TM 1 - Imp Movies</sys_name>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+        <sys_update_name>sys_transform_map_ca81b08347190210b5c0fe02d16d4325</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-04-05 19:05:23</sys_updated_on>
+        <target_table>x_738256_movie_inv_films</target_table>
+    </sys_transform_map>
+</record_update>

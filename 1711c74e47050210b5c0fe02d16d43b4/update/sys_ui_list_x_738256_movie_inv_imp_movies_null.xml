@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_738256_movie_inv_imp_movies" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>fb61fc4347190210b5c0fe02d16d432c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>b361fc4347190210b5c0fe02d16d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>3761fc4347190210b5c0fe02d16d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>b761fc4347190210b5c0fe02d16d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>3b61fc4347190210b5c0fe02d16d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_738256_movie_inv_imp_movies" element="NULL" name="x_738256_movie_inv_imp_movies" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3761fc4347190210b5c0fe02d16d432b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_id>bb61fc4347190210b5c0fe02d16d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_738256_movie_inv_imp_movies</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:03:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3761fc4347190210b5c0fe02d16d432b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_738256_movie_inv_imp_movies</sys_name>
+            <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+            <sys_update_name>sys_ui_list_x_738256_movie_inv_imp_movies_null</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:03:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="TM 1 - Imp Movies">ca81b08347190210b5c0fe02d16d4325</map>
+        <reference_value_field/>
+        <source_field>u_year</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_738256_movie_inv_imp_movies</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-04-05 19:05:23</sys_created_on>
+        <sys_id>99c1f48347190210b5c0fe02d16d433c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_year</sys_name>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+        <sys_update_name>sys_transform_entry_99c1f48347190210b5c0fe02d16d433c</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-04-05 19:05:23</sys_updated_on>
+        <target_field>year</target_field>
+        <target_table>x_738256_movie_inv_films</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

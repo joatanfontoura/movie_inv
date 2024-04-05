@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="studio" table="x_738256_movie_inv_films" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>studio</element>
+            <name>x_738256_movie_inv_films</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>studio</sys_name>
+            <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+            <sys_update_name>sys_choice_x_738256_movie_inv_films_studio</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>20th Century Fox</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>20th Century Fox</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Columbia Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Columbia Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DreamWorks Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>DreamWorks Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fox Searchlight Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Fox Searchlight Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gaumont</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Gaumont</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gramercy Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>Gramercy Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hollywood Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Hollywood Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Miramax Films</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>Miramax Films</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Line Cinema</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>New Line Cinema</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Orion Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Orion Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Paramount Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>Paramount Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PolyGram Filmed Entertainment</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>PolyGram Filmed Entertainment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sony Pictures Classics</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Sony Pictures Classics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Universal Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>Universal Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walt Disney Pictures</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:23</sys_updated_on>
+            <value>Walt Disney Pictures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>studio</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warner Bros.</label>
+            <language>en</language>
+            <name>x_738256_movie_inv_films</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2024-04-05 19:06:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2024-04-05 19:06:22</sys_updated_on>
+            <value>Warner Bros.</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

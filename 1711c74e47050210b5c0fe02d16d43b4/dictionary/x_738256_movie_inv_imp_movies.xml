@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e361bc4347190210b5c0fe02d16d43f7" extends="sys_import_set_row" label="imp_movies" max_length="40" name="x_738256_movie_inv_imp_movies" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Category" label="Category" max_length="40" name="u_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lead Studio" label="Lead Studio" max_length="40" name="u_lead_studio" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Title" label="Title" max_length="49" name="u_title" type="string"/>
+        <element attributes="import_attribute_name=Year" label="Year" max_length="40" name="u_year" type="integer"/>
+    </element>
+</database>

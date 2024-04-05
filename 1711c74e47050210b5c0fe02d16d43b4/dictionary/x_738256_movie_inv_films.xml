@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a86147ce47050210b5c0fe02d16d436f" label="Films" max_length="40" name="x_738256_movie_inv_films" type="collection">
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Action" sequence="0" value="Action"/>
+                <element inactive_on_update="false" label="Adventure" sequence="0" value="Adventure"/>
+                <element inactive_on_update="false" label="Animation" sequence="0" value="Animation"/>
+                <element inactive_on_update="false" label="Biography" sequence="0" value="Biography"/>
+                <element inactive_on_update="false" label="Comedy" sequence="0" value="Comedy"/>
+                <element inactive_on_update="false" label="Crime" sequence="0" value="Crime"/>
+                <element inactive_on_update="false" label="Drama" sequence="0" value="Drama"/>
+                <element inactive_on_update="false" label="Mystery" sequence="0" value="Mystery"/>
+            </choice>
+        </element>
+        <element choice="1" label="Studio" max_length="40" name="studio" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="20th Century Fox" sequence="0" value="20th Century Fox"/>
+                <element inactive_on_update="false" label="Columbia Pictures" sequence="0" value="Columbia Pictures"/>
+                <element inactive_on_update="false" label="DreamWorks Pictures" sequence="0" value="DreamWorks Pictures"/>
+                <element inactive_on_update="false" label="Fox Searchlight Pictures" sequence="0" value="Fox Searchlight Pictures"/>
+                <element inactive_on_update="false" label="Gaumont" sequence="0" value="Gaumont"/>
+                <element inactive_on_update="false" label="Gramercy Pictures" sequence="0" value="Gramercy Pictures"/>
+                <element inactive_on_update="false" label="Hollywood Pictures" sequence="0" value="Hollywood Pictures"/>
+                <element inactive_on_update="false" label="Miramax Films" sequence="0" value="Miramax Films"/>
+                <element inactive_on_update="false" label="New Line Cinema" sequence="0" value="New Line Cinema"/>
+                <element inactive_on_update="false" label="Orion Pictures" sequence="0" value="Orion Pictures"/>
+                <element inactive_on_update="false" label="Paramount Pictures" sequence="0" value="Paramount Pictures"/>
+                <element inactive_on_update="false" label="PolyGram Filmed Entertainment" sequence="0" value="PolyGram Filmed Entertainment"/>
+                <element inactive_on_update="false" label="Sony Pictures Classics" sequence="0" value="Sony Pictures Classics"/>
+                <element inactive_on_update="false" label="Universal Pictures" sequence="0" value="Universal Pictures"/>
+                <element inactive_on_update="false" label="Walt Disney Pictures" sequence="0" value="Walt Disney Pictures"/>
+                <element inactive_on_update="false" label="Warner Bros." sequence="0" value="Warner Bros."/>
+            </choice>
+        </element>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+    </element>
+</database>

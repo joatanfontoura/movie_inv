@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Films">e57187ce47050210b5c0fe02d16d43de</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Films</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_738256_movie_inv_films</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_738256_movie_inv.films_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-03-21 16:43:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>657187ce47050210b5c0fe02d16d43e2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+        <sys_update_name>sys_app_module_657187ce47050210b5c0fe02d16d43e2</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-04-05 18:19:36</sys_updated_on>
+        <timeline_page/>
+        <title>List</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
