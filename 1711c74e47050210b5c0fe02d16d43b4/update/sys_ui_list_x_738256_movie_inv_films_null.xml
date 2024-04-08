@@ -3,62 +3,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>title</element>
-            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3e323c8347190210b5c0fe02d16d4388</list_id>
+            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f1718c8047e50210b5c0fe02d16d43ea</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2024-04-05 19:07:24</sys_created_on>
-            <sys_id>7a323c8347190210b5c0fe02d16d4389</sys_id>
+            <sys_created_on>2024-04-08 18:08:16</sys_created_on>
+            <sys_id>35718c8047e50210b5c0fe02d16d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2024-04-05 19:07:24</sys_updated_on>
+            <sys_updated_on>2024-04-08 18:08:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>category</element>
-            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3e323c8347190210b5c0fe02d16d4388</list_id>
+            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f1718c8047e50210b5c0fe02d16d43ea</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2024-04-05 19:07:24</sys_created_on>
-            <sys_id>fa323c8347190210b5c0fe02d16d4389</sys_id>
+            <sys_created_on>2024-04-08 18:08:16</sys_created_on>
+            <sys_id>b9718c8047e50210b5c0fe02d16d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2024-04-05 19:07:24</sys_updated_on>
+            <sys_updated_on>2024-04-08 18:08:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>studio</element>
-            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3e323c8347190210b5c0fe02d16d4388</list_id>
+            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f1718c8047e50210b5c0fe02d16d43ea</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2024-04-05 19:07:24</sys_created_on>
-            <sys_id>7e323c8347190210b5c0fe02d16d4389</sys_id>
+            <sys_created_on>2024-04-08 18:08:16</sys_created_on>
+            <sys_id>3d718c8047e50210b5c0fe02d16d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2024-04-05 19:07:24</sys_updated_on>
+            <sys_updated_on>2024-04-08 18:08:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>year</element>
-            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3e323c8347190210b5c0fe02d16d4388</list_id>
+            <element>released_year</element>
+            <list_id display_value="x_738256_movie_inv_films" element="NULL" name="x_738256_movie_inv_films" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f1718c8047e50210b5c0fe02d16d43ea</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2024-04-05 19:07:24</sys_created_on>
-            <sys_id>fe323c8347190210b5c0fe02d16d4389</sys_id>
+            <sys_created_on>2024-04-08 18:08:16</sys_created_on>
+            <sys_id>bd718c8047e50210b5c0fe02d16d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2024-04-05 19:07:24</sys_updated_on>
+            <sys_updated_on>2024-04-08 18:08:16</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -72,10 +72,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>joatan</sys_created_by>
-            <sys_created_on>2024-04-05 19:07:24</sys_created_on>
+            <sys_created_on>2024-04-08 18:08:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>3e323c8347190210b5c0fe02d16d4388</sys_id>
+            <sys_id>f1718c8047e50210b5c0fe02d16d43ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_738256_movie_inv_films</sys_name>
             <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
@@ -83,7 +83,7 @@
             <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
             <sys_update_name>sys_ui_list_x_738256_movie_inv_films_null</sys_update_name>
             <sys_updated_by>joatan</sys_updated_by>
-            <sys_updated_on>2024-04-05 19:07:24</sys_updated_on>
+            <sys_updated_on>2024-04-08 18:08:16</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

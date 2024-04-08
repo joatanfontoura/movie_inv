@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">ed9a058347990210b5c0fe02d16d430a</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 05/04/2024 17:57:15">3b5b058347990210b5c0fe02d16d43ba</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2024-04-05 20:57:15</sys_created_on>
+        <sys_id>f35b058347990210b5c0fe02d16d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ed9a058347990210b5c0fe02d16d430a</sys_name>
+        <sys_package display_value="Movie Inventory" source="x_738256_movie_inv">1711c74e47050210b5c0fe02d16d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Inventory">1711c74e47050210b5c0fe02d16d43b4</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_f35b058347990210b5c0fe02d16d43bc</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2024-04-05 20:57:15</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

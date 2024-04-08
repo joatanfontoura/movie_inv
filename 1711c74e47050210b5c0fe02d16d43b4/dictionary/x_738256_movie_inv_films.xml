@@ -12,6 +12,7 @@
                 <element inactive_on_update="false" label="Mystery" sequence="0" value="Mystery"/>
             </choice>
         </element>
+        <element label="Year" max_length="40" name="released_year" type="string"/>
         <element choice="1" label="Studio" max_length="40" name="studio" type="choice">
             <choice>
                 <element inactive_on_update="false" label="20th Century Fox" sequence="0" value="20th Century Fox"/>
